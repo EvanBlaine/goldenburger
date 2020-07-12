@@ -1,5 +1,5 @@
 ## GoldenBurger
-_Turns the good old Minecraft golden apples into a cheeseburger_
+_Turns the good old Minecraft golden apples and enchanted apples into a cheeseburger_
 
 ![Screenshot](Screenshot.png)
 
